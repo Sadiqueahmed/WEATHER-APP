@@ -93,9 +93,6 @@ git commit -m 'Add YourFeature'
 git push origin feature/YourFeature
 ```
 
-5. **Open a Pull Request**.
-
----
 
 ## 📄 License
 
