@@ -1,6 +1,5 @@
-Here is the full content for your `README.md` file:
 
-```markdown
+
 # 🌦️ Weather App
 
 A sleek and responsive weather application that provides real-time weather updates for any city worldwide. Built with HTML, CSS, and JavaScript, this app fetches data from a reliable weather API to display current conditions and forecasts.
