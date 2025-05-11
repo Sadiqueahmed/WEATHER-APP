@@ -21,8 +21,8 @@ WEATHER-APP/
 
 ## 📸 Screenshots
 
-![Weather App Screenshot 1](./assets/screenshot1.png)  
-![Weather App Screenshot 2](./assets/screenshot2.png)
+![Weather App Screenshot 1](./Screenshot 2025-05-11 195741.png)  
+
 
 ## 📦 Getting Started
 
