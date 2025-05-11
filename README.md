@@ -21,7 +21,8 @@ WEATHER-APP/
 
 ## 📸 Screenshots
 
-![Weather App Screenshot 1](./Screenshot 2025-05-11 195741.png)  
+![Weather App Screenshot 1](./Screenshot%202025-05-11%20195741.png)
+  
 
 
 ## 📦 Getting Started
